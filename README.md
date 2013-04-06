@@ -1,7 +1,7 @@
 VoicePickCode Generator
 =============
 
-Voice pick code Calculator ( gets the GTIN, Lot &amp; Optional Date and generate the code)
+Voice pick code Generator ( gets the GTIN, Lot &amp; Optional Date and generate the code)
 
 
 Example usage:
